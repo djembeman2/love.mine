@@ -1,17 +1,17 @@
 
-<h1>Demo website for Southern Fried Chicken</h1>
+<h1>Demo website for Best Damn Chicken</h1>
 
 <h2>About</h2>
 
 <p>
-  This is a demo website for Southern Fried Chicken. It has three pages, home, about, and menu. It features a table with fictitious prices, and a list of fictitous contact information. It also includes images on each page.
+  This is a demo website for Best Damn Chicken. It has three pages, home, about, and menu. It features a table with fictitious prices, and a list of fictitous contact information. It also includes images on each page.
 </p>
 
 <h2> Wireframe </h2>
 
 <p> The plan for the website with CSS is based on this wireframe.</p>
 
-<img title="Wireframe for site with CSS." src="docs/html-with-css.png">
+<img title="Wireframe for site with CSS." src="docs/willie.png">
 
 <h2>Technology used</h2>
 
